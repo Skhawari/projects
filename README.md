@@ -25,6 +25,6 @@ I'm a **Bioinformatics Master's student** at **Freie Universität Berlin**, pass
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/sajjad-khawari](https://www.linkedin.com/in/sajjad-khawari)
 - GitHub: [github.com/deinusername](https://github.com/deinusername)
-- Email: [sajjad.khawari@icloud.com](mailto:sajjad.khawari@icloud.com)
+- Email: [s.khawari@fu-berlin.de](mailto:s.khawari@fu-berlin.de)
 
 💡 Always open to collaboration on **Bioinformatics, AI, and educational tools**! Let's connect. 🚀
